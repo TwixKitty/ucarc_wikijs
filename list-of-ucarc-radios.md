@@ -1,4 +1,3 @@
-<!-- TITLE: List Of Ucarc Radios -->
-<!-- SUBTITLE: A quick summary of List Of Ucarc Radios -->
+<!-- TITLE: List Of UCARC Radios -->
 
 # Header
