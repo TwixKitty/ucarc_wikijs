@@ -11,4 +11,4 @@ Frequency Range
 
 ### Documentation
 
-[[Owner's Manual|http://www.radiomanual.info/schemi/YAESU_VU/FT-726R_user.pdf]]
+[Owner's Manual](http://www.radiomanual.info/schemi/YAESU_VU/FT-726R_user.pdf)
