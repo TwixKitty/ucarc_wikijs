@@ -1,4 +1,4 @@
-<!-- TITLE: List Of UCARC Radios -->
+<!-- TITLE: List of UCARC Radios -->
 
 [YAESU-FT-726R](YAESU-FT-726R)
 
