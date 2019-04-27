@@ -6,4 +6,4 @@
 
 [IT-100-Autotuner](IT-100-Autotuner)
 
-[w-8-gy-select-caller](w-8-gy-select-caller)
+[list-of-other-ucarc-radio-equipment/w-8-gy-select-caller](w-8-gy-select-caller)
