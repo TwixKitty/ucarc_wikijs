@@ -4,7 +4,7 @@
 
 [Radio-Shack-Channel-Pro-2037](list-of-ucarc-radios/Radio-Shack-Channel-Pro-2037)
 
-[Baofeng-UV-5R](list-of-ucarc-radios/Baofeng-UV-5R)
+[Baofeng-UV-5R](list-of-ucarc-radios/Baofeng-UV-5-R)
 
 [TEN-TEC-OMNI-V-Rack](list-of-ucarc-radios/TEN-TEC-OMNI-V-Rack)
 
