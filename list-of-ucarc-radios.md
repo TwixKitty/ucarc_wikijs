@@ -1,6 +1,6 @@
 <!-- TITLE: List of UCARC Radios -->
 
-[YAESU-FT-726R](list-of-ucarc-radios/YAESU-FT-726R)
+[YAESU-FT-726R](list-of-ucarc-radios/yaesu-ft-726-r)
 
 [Radio-Shack-Channel-Pro-2037](list-of-ucarc-radios/Radio-Shack-Channel-Pro-2037)
 
