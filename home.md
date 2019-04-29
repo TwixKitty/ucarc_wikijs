@@ -10,7 +10,7 @@ Welcome to the UCARC Wiki. Here you can find useful pages on club related radio 
 
 [Completed Projects](Completed-Projects)
 
-[DX Contacts](DX Contacts)
+[DX Contacts](DX-Contacts)
 
 [Eric Swanson's Legacy Wiki from 2015](eric-swansons-legacy-wiki)
 
