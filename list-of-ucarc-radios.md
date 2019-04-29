@@ -18,7 +18,7 @@
 
 [ICOM-IC-970H](list-of-ucarc-radios/ICOM-IC-970-H)
 
-[COLLINS-75A-3](list-of-ucarc-radios/COLLINS-75A-3)
+[COLLINS-75A-3](list-of-ucarc-radios/COLLINS-75-A-3)
 
 [COLLINS-KW-1-Transmitter](list-of-ucarc-radios/COLLINS-KW-1-Transmitter)
 
