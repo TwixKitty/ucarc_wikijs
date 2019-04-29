@@ -8,7 +8,7 @@
 
 [TEN-TEC-OMNI-V-Rack](list-of-ucarc-radios/TEN-TEC-OMNI-V-Rack)
 
-[YAESU-FT-2500M](list-of-ucarc-radios/YAESU-FT-2500M)
+[YAESU-FT-2500M](list-of-ucarc-radios/YAESU-FT-2500-M)
 
 [KENWOOD-TM-331A](list-of-ucarc-radios/KENWOOD-TM-331A)
 
